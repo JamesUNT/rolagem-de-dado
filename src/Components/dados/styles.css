@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.center {
+  margin: 0 auto;
+  padding: 20vh 0 0 0;
+  width: 300px;
+  height: auto;
+  /* background-color: green; */
+}
+
+
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  /* background-color: red; */
+}

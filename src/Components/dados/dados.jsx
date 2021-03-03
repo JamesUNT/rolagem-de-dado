@@ -26,7 +26,6 @@ class App extends React.Component {
 
     /* bind section */
     this.randomNumberGenerated = this.randomNumberGenerated.bind(this);
-    this.rollingDice = this.rollingDice.bind(this);
   }
 
   /* methods section */
